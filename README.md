@@ -23,3 +23,7 @@ This repo contains select notes from various sources (mainly UoE informatics res
 ## IRR Feedback Sheet
 
 * [Here](irr_markingform_1718.pdf)
+
+## My Plan
+
+* [Plan](plan.md)
